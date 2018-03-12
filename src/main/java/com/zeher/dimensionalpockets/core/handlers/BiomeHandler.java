@@ -14,8 +14,7 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class BiomeHandler {
 	
-	public static final Biome pocketBiome = new BiomePocket(new BiomeProperties("Pocket Dim")
-			.setRainDisabled());
+	public static final Biome pocketBiome = new BiomePocket(new BiomeProperties("Pocket Dim").setRainDisabled());
 	
 	@Mod.EventBusSubscriber(modid = DimensionalPockets.mod_id)
 	public static class RegistrationHandler {
