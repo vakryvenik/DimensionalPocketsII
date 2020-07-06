@@ -25,4 +25,4 @@ If you wish to view the original DimensionalPockets code, please refer to [NPExc
 ## Discord
 [DimensionalPockets 2 Discord](https://discord.gg/8ydCtzm)
 
-| 2017-19 @ TheRealZeher | TRZ | All Rights Reserved |
+| 2020 @ TheRealZeher | TRZ | All Rights Reserved |
