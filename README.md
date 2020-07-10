@@ -25,6 +25,11 @@ If you wish to view the original DimensionalPockets code, please refer to [NPExc
 [Dimensional Pockets II on CurseForge](https://minecraft.curseforge.com/projects/dimensional-pockets-ii)
 
 ## Discord
-[DimensionalPockets 2 Discord](https://discord.gg/8ydCtzm)
+[DimensionalPockets II Discord](https://discord.gg/8ydCtzm)
+
+## Development Team:
+- TheRealZeher (Main Author)
+- Apolybrium (Texture Artist)
+- Rechalow (Chinese Translation)
 
 | 2020 @ TheRealZeher | TRZ | All Rights Reserved |
